@@ -15,8 +15,8 @@ docker run -d -p 6379:6379 --name redis redis
 
 **Clone and install:**
 ```bash
-git clone <repo-url>
-cd <repo-folder>
+git clone https://github.com/ddshah878/Resumable-Simulation
+cd Resumable-Simulation
 python -m venv venv
 ```
 
